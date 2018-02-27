@@ -154,3 +154,5 @@ contract ERC20Token is StandardToken {
 
 I use [Rinkeby TestNet](https://www.rinkeby.io)
 ![install_module](/images/2.png?raw=true)
+ My token: HODUCHIEU
+![install_module](/images/3.png?raw=true)
